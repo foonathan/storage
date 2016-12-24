@@ -1,10 +1,13 @@
 storage - A library providing optional and variant classes
 ==========================================================
 
+*Update: I've now re-implemented optional and variant much better and cleaner in [type_safe](https://github.com/foonathan/type_safe). These types can even be considered superior alternatives to the standard version.*
+
 *Note: This project was created out of fun in 2014 to test out Biicode, which was a C/C++ package manager.
 It would be sad if the could would be permanently deleted, so I've rescued it and decided to put it on Github.
 The implementation is entirely header-only, just download them somewhere appropriate.
 Maybe someone will find it useful.*
+
 
 Motivation
 ----------
